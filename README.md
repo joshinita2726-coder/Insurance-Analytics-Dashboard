@@ -22,6 +22,8 @@ This Power BI dashboard provides insights into insurance policies, premium amoun
 
 ## Dashboard Preview
 
+<img width="1376" height="752" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/be0ba37e-4c1d-440a-8d24-07eb0e5280ab" />
+
 
 
 ## Key Insights
